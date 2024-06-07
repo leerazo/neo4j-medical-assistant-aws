@@ -14,9 +14,6 @@ st.markdown("""
         @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
     </style>
     <div style='text-align: center; font-size: 2.5rem; font-weight: 600; font-family: "Roboto"; color: #018BFF; line-height:1; '>Intelligent Medical Assistant</div>
- 
-    <div style='text-align: center; font-size: 2.5rem; font-weight: 600; font-family: "Roboto"; color: #018BFF; line-height:1; '>Intelligent Medical Assistant</div>
-
 """, unsafe_allow_html=True)
 
 def generate_context(prompt, context_data='generated'):
